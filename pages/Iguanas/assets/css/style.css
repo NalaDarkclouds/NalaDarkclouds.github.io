@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* me costo mucho el parrafo de la descripcion :'C pero use el hover y quedo bonito por lo menos! */
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    background-color: #000000;
+    font-family: 'Raleway' , sans-serif;
+    padding: 5px 0px;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.tittle img{
+    width: 100%;
+}
+
+.tittle{
+    background-color: #000000;
+}
+
+.desc-section{
+    font-family: 'Raleway' , sans-serif;
+    background-color: #000000;
+}
+
+.texto-desc{
+    font-weight: lighter;
+    color: #ffffff;
+    display: inline-block;
+    width: 49%;
+    text-align: left;
+    font-size: 16px;
+}
+
+.parrafo1{
+    display: inline-block;
+    width: 50%;
+    padding-bottom: 15px;
+    padding-left: 150px;
+}
+
+.parrafo2{
+    display: inline-block;
+    width: 50%;
+    padding-left: 150px;
+}
+
+.img-desc{
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    padding: 45px 0px 66px 0px;
+}
+
+.img-desc img{
+    width: 399px;
+    height: 237px;
+}
+
+.icon div{
+    display: inline-block;
+    width: 32%;
+}
+
+.icon p{
+    font-family: 'Raleway' , sans-serif;
+    padding: 5%;
+}
+
+.icon{
+    text-align: center;
+
+}
+
+.character{
+    background-color: #1e1a13;
+    color: #ffffff;
+    padding: 5%;
+}
+
+.character h2{
+    font-family: 'Raleway' , sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.galery{
+    background-color: #000000;
+    padding: 3%;
+}
+
+.img2{
+    text-align: right;
+    display: inline-block;
+    width: 33%;
+}
+
+.img3{
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+}
+
+.img4{
+    text-align: left;
+    display: inline-block;
+    width: 33%;
+}
+
+.img2 img{
+    width: 316px;
+    height: 202px;
+}
+
+.img3 img{
+    width: 316px;
+    height: 202px;
+}
+
+.img4 img{
+    width: 316px;
+    height: 202px;
+}
+
+.foot{
+    background-color: #1e1a13;
+    padding: 2%;
+}
+
+.foot h3{
+    font-family: 'Raleway' , sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.foot a{
+    color: #ffffff;
+}
+
+.foot a:hover{
+    color: chartreuse;
+}
