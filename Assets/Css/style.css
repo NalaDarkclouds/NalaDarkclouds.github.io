@@ -6,5 +6,9 @@
 }
 
 .backgrounddiv{
-    background-image: url("/Assets/Img/—Pngtree—modern\ double\ color\ futuristic\ neon_1181573.jpg");
+    background-image: url("/Assets/Img/wallpapersden.com_abstract-color-splash_2560x1080.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
 }
