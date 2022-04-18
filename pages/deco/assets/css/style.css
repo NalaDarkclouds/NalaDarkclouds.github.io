@@ -49,3 +49,7 @@ footer{
     font-size: 15px;
 }
 
+.navbar-brand img{
+    height: 30px;
+    width: 30px;
+}
