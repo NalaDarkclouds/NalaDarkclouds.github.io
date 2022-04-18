@@ -12,3 +12,8 @@
     background-repeat: no-repeat;
     height: 500px;
 }
+
+.navbar-brand img{
+    height: 30px;
+    width: 30px;
+}
